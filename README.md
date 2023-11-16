@@ -1,0 +1,1 @@
+# snespad_to_xinput
