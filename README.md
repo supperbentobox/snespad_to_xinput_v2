@@ -18,11 +18,6 @@
 - ArduinoXInput
 - https://github.com/dmadison/ArduinoXInput
   
-## 謝辞
-本ソースコードはkazuu氏による記事 https://zenn.dev/kazuu/articles/560c403d5be17a をベースにArduino XInput Libraryを使用するように改修したものです。
-記事を執筆及びスケッチを作成されたkazuu氏及びArduino XInput Libraryの作者Dave Madison氏に感謝いたします。
-
 ## Acknowledgements
 This source code is based on the article by kazuu https://zenn.dev/kazuu/articles/560c403d5be17a and has been modified to use the Arduino XInput Library.
 We would like to thank kazuu for writing the article and creating the sketch, and Dave Madison, the author of the Arduino XInput Library.
-
